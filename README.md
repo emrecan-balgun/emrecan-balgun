@@ -23,8 +23,3 @@
 <a href="https://linkedin.com/in/emrecanbalgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecanbalgun" height="30" width="40" /></a>
 <a href="https://instagram.com/emrecanbalgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emrecanbalgun" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-<a href="https://linkedin.com/in/emrecanbalgun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emrecanbalgun" height="30" width="30" /></a>
-<a href="https://instagram.com/emrecanbalgun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emrecanbalgun" height="30" width="30" /></a>
-</p>
