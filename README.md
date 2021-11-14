@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emrecan Balgun</h1>
 <h3 align="center">Jr. Frontend Developer from Izmir</h3>
 
+
 - 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/emrecan-balgun?tab=repositories)
