@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emrecan Balgun</h1>
 <h3 align="center">Jr. Frontend Developer from Izmir</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecanbalgun" alt="emrecanbalgun" /> </p>
-
 - 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/emrecan-balgun?tab=repositories)
