@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emrecan Balgun</h1>
-<h3 align="center">Jr. Frontend Developer from Izmir</h3>
+<h3 align="center">Frontend Developer from Izmir</h3>
 
 
 - 🌱 I’m currently learning **React, Redux**
