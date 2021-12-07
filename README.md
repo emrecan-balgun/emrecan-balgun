@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Izmir</h3>
 
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React and Redux**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/emrecan-balgun?tab=repositories)
 
