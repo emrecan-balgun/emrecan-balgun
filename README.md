@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/emrecan-balgun?tab=repositories)
-
 - 📫 How to reach me **balgunemrecan@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/emrecanbalgun/
