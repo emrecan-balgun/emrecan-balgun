@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Izmir</h3>
 
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **balgunemrecan@gmail.com**
 
