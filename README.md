@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Izmir</h3>
 
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **GraphQL and Hasura**
 
 - 📫 How to reach me **balgunemrecan@gmail.com**
 
