@@ -17,7 +17,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://graphql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
-    <a href="https://hasura.io" target="_blank"> <img src="https://svgshare.com/i/ghg.svg" alt="hasura" width="40" height="40"/> </a>
+    <a href="https://hasura.io" target="_blank"> <img src="https://svgshare.com/i/ghq.svg" alt="hasura" width="40" height="40"/> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
