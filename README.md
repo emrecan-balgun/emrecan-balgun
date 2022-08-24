@@ -17,7 +17,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://graphql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
-    <a href="https://hasura.io" target="_blank"> <img src="https://svgshare.com/i/ghq.svg" alt="hasura" width="40" height="40"/> </a>
+    <a href="https://hasura.io" target="_blank"> <img src="https://hasura.io/brand-assets/hasura-icon-primary.svg" alt="hasura" width="40" height="40"/> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://vuejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="git" width="40" height="40"/> </a>
