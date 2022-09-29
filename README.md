@@ -3,6 +3,7 @@
 
 
 - 🌱 I’m currently learning **Vue.js and Tailwind CSS**
+- 🔭 I’m currently working on **React and Redux**
 
 - 📫 How to reach me **balgunemrecan@gmail.com**
 
