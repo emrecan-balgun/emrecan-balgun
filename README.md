@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Node.js and Flutter**
-- 🔭 I’m currently working on **React and Redux**
+- 🔭 I’m currently working on **React and Node.js**
 - 📫 How to reach me **balgunemrecan@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
